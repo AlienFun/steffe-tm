@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    padding: 15px;
+    background-color: antiquewhite;
+    color:black;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    color: #06954e;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: #950606;
+}
+
+h3 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color: #064d95;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color: black;
+}
+
+ul.b {
+    list-style-type: square;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+    background-color: #B8C2AB;
+}
+
+footer {
+    background-color: #B8C2AB;
+}
+
+.custom-hero {
+    background: #FFF9DB;
+}
+
+.equal-height {
+    height: 100%;
+}
+.card {
+    display: flex;
+    flex-direction: column;
+}
+
+.slick-carousel-hobbies img {
+    width: 100%;
+    height: 300px;
+    object-fit: contain;
+    border-radius: 10px;
+}
